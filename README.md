@@ -22,5 +22,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan hubungi ku pada media sosi
 </p>
 
 [github]: https://github.com/luthfialghz
-[linkedin]: https://www.linkedin.com/in/luthfi-yafi-alfiansyah-42911513b/
+[linkedin]: https://www.linkedin.com/in/luthfiyafia/
 [instagram]: https://instagram.com/luthfiyell
