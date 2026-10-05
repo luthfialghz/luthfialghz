@@ -1,66 +1,98 @@
 <div align="center">
 
-# Hi, I'm Luthfi Yafi Alfiansyah 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B1220,55:102A32,100:0F766E&text=LUTHFI%20YAFI&fontColor=E6FFFA&fontSize=54&fontAlignY=39&desc=SOFTWARE%20ENGINEER%20%2F%20INDONESIA&descAlignY=69&descSize=14&animation=fadeIn" alt="Luthfi Yafi — Software Engineer from Indonesia" />
 
-### Associate Software Development Engineer · Full-Stack & Android Developer
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=950&color=5EEAD4&center=true&vCenter=true&width=760&height=42&lines=Full-Stack+%2B+Android+Engineer;Kotlin+%C2%B7+React+%C2%B7+Next.js;Turning+product+ideas+into+reliable+software" alt="Animated introduction" />
 
-Building practical web and mobile products with thoughtful engineering.
-
-[![Portfolio source](https://img.shields.io/badge/Portfolio-Source-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/luthfialghz/luthfi-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthfi-yafi-alfiansyah-42911513b/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luthfiyell)
+<a href="https://github.com/luthfialghz/luthfi-portfolio"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-0F766E?style=for-the-badge&labelColor=0B1220" alt="Explore portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/luthfi-yafi-alfiansyah-42911513b/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0F766E?style=for-the-badge&labelColor=0B1220" alt="Connect on LinkedIn" /></a>
 
 </div>
 
----
+<br />
 
-## About me
+> I build across **web and Android**: from shaping product requirements to shipping maintainable software. Currently an **Associate Software Development Engineer at PT NTT Indonesia**.
 
-I'm an **Associate Software Development Engineer at PT NTT Indonesia** and a **Computer Engineering graduate from Telkom University**. I work across web and mobile development, turning product requirements into maintainable software and collaborating with cross-functional teams to deliver reliable solutions.
+<br />
 
-- 💻 Focused on **full-stack web** and **Android** development
-- 🧰 Enjoy working with **Kotlin, Java, React, Next.js, and JavaScript**
-- 🎓 **Bangkit Academy 2022** graduate with distinction — Android Learning Path
-- 🤝 Bring a user-first mindset shaped by experience in client service and incident management
-- 📍 Based in Indonesia
+## The short version
 
-## Selected projects
+| | |
+|:--|:--|
+| **NOW** | Associate Software Development Engineer · PT NTT Indonesia |
+| **BEFORE** | Client Service Desk · incident handling, SLAs, and a user-first perspective |
+| **FOUNDATION** | Computer Engineering · Telkom University |
+| **ALSO** | Bangkit Academy 2022 · Android Learning Path · Graduate with Distinction |
 
-| Project | What it does | Stack / links |
-| --- | --- | --- |
-| **RobloxStore** | E-commerce platform with automated order fulfillment, payment integration, and an operations CMS. | React · Vite · Tailwind CSS · [Live site](https://bloxhouse.id/) · [Source](https://github.com/Bloxhouse/bloxhouse-webapp) |
-| **Crypto Swing Analyzer** | Web app for cryptocurrency market analysis, portfolio tracking, and AI-assisted insights. | Next.js · TypeScript · Gemini · [Source](https://github.com/luthfialghz/crypto-swing-analyzer) |
-| **DewPet** | Android capstone app for early pet-health screening, with vet appointment and nearby pet-care features. | Kotlin · Android · Machine Learning · [Source](https://github.com/luthfialghz/DewPet) · [Project story](https://medium.com/@azeel/dewpet-initial-pet-diagnosis-based-on-symptoms-project-capstone-bangkit-academy-2022-b28680db2856) |
-| **Fatless** | Android app created to help users estimate body-fat levels and support healthier habits. | Kotlin · Android · Flask · Machine Learning · [Source](https://github.com/luthfialghz/Fatless) |
+## Selected work
 
-More work and project details: **[Portfolio repository](https://github.com/luthfialghz/luthfi-portfolio)**.
+<details open>
+<summary><strong>01 — RobloxStore</strong> · e-commerce & automated fulfillment</summary>
+<br />
 
-## Tech I work with
+A full-stack storefront with payment integration, automated order workflows, and an internal operations CMS.
+
+`React` `Vite` `Tailwind CSS` · [Visit site](https://bloxhouse.id/) · [Source](https://github.com/Bloxhouse/bloxhouse-webapp)
+</details>
+
+<details open>
+<summary><strong>02 — Crypto Swing Analyzer</strong> · market analysis</summary>
+<br />
+
+A web app for cryptocurrency market insights, portfolio tracking, and AI-assisted analysis.
+
+`Next.js` `TypeScript` `Gemini` · [Source](https://github.com/luthfialghz/crypto-swing-analyzer)
+</details>
+
+<details>
+<summary><strong>03 — DewPet</strong> · Android + machine learning</summary>
+<br />
+
+A Bangkit capstone for early pet-health screening, with vet appointments and nearby pet-care discovery.
+
+`Kotlin` `Android` `Machine Learning` · [Source](https://github.com/luthfialghz/DewPet) · [Project story](https://medium.com/@azeel/dewpet-initial-pet-diagnosis-based-on-symptoms-project-capstone-bangkit-academy-2022-b28680db2856)
+</details>
+
+<details>
+<summary><strong>04 — Fatless</strong> · Android + health tech</summary>
+<br />
+
+An app created to help users estimate body-fat levels and support healthier habits.
+
+`Kotlin` `Android` `Flask` `Machine Learning` · [Source](https://github.com/luthfialghz/Fatless)
+</details>
+
+<p align="right"><a href="https://github.com/luthfialghz/luthfi-portfolio">Browse all projects ↗</a></p>
+
+## Tools on my workbench
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Kotlin-0B1220?style=flat-square&logo=kotlin&logoColor=5EEAD4" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-0B1220?style=flat-square&logo=openjdk&logoColor=5EEAD4" alt="Java" />
+  <img src="https://img.shields.io/badge/Android-0B1220?style=flat-square&logo=android&logoColor=5EEAD4" alt="Android" />
+  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=5EEAD4" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=5EEAD4" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=5EEAD4" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=5EEAD4" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=5EEAD4" alt="Git" />
 </p>
 
-## GitHub
-
+<details>
+<summary><strong>GitHub stats</strong></summary>
+<br />
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luthfialghz&show_icons=true&hide_border=true&theme=transparent" alt="Luthfi's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfialghz&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luthfialghz&show_icons=true&hide_border=true&theme=transparent&title_color=5EEAD4&icon_color=5EEAD4" alt="Luthfi's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfialghz&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=5EEAD4" alt="Most used languages" />
 </div>
+</details>
 
----
+<br />
 
 <div align="center">
 
-Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/luthfi-yafi-alfiansyah-42911513b/).
+**More about my work:** [Portfolio](https://github.com/luthfialghz/luthfi-portfolio) · [GitHub](https://github.com/luthfialghz) · [LinkedIn](https://www.linkedin.com/in/luthfi-yafi-alfiansyah-42911513b/) · [Instagram](https://instagram.com/luthfiyell)
+
+<sub>Building useful things, one thoughtful commit at a time.</sub>
 
 </div>
