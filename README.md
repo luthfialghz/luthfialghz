@@ -2,8 +2,6 @@
 
 # Hi, I'm Luthfi Yafi Alfiansyah 👋
 
-line 3
-
 ### Associate Software Development Engineer · Full-Stack & Android Developer
 
 Building practical web and mobile products with thoughtful engineering.
